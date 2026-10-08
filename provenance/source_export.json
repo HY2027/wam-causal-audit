@@ -1,0 +1,5235 @@
+{
+  "files": [
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "source_sha256": "ac74c5f040278acbc5633a49aa7befea4f5711d3c5527d15ad569d145ece4fc0",
+      "release_sha256": "e06095769089f086fa4573c55a49e5e2e52215a552c2e7e8199b9ace1b7858b0",
+      "path_expressions_relocated": 13,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "source_sha256": "2b7957a57c12da7c79d6489502e5ab3eded02a772714ac1a0edab154d4214a48",
+      "release_sha256": "54d7b8904497d7b15938e5b2b85dfe12a4d2c71eb23ad255c75ea6dd341916bc",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "source_sha256": "4a452d7c49695ba8d51325cb2ebc9bf7ef1ff4cf76e2eb2ba32e051696b68982",
+      "release_sha256": "f0ea9212af8e8560cc73b3ac0c792035cff41ca49973442a5db4ae0124ce4db5",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "source_sha256": "10b4292ff2a21d97e73078307b44d4a8427fa9785e33f42d248c4a2446a60704",
+      "release_sha256": "471d1dec96b89188583ffc3075049eb8cc226c016b5b50c9e7a32e5b56e0dfef",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "source_sha256": "2cee0c6710e472063c6b20a8b8c463da6a586bc5130fdc7a5a2c32c311ebb3e0",
+      "release_sha256": "f5c94092bbd182776928216a69e7001dac695f10e1aed9818d0b9cb5a776ef7e",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "source_sha256": "07365937d934400b0887afdd7ce9abdf22b42094c624adc6d81404aab760a499",
+      "release_sha256": "eb5f2c536ce11a099b386d7282a362ef052aecef04404f91557d200a3a9f0f36",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "source_sha256": "f61e907abcf97a869f3f7bfbd9b35cd68b5f2b4768b379767aa4a6793fdab71f",
+      "release_sha256": "15908074b0d810d9ac8b37f765d5970d9ca8b1127dfc053ffecd72ff129852f1",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "source_sha256": "96ba1b6483bb768c1436a8e17cc3dc01b1349b79d854bde87ebdeaa971081937",
+      "release_sha256": "96ba1b6483bb768c1436a8e17cc3dc01b1349b79d854bde87ebdeaa971081937",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "source_sha256": "a5027f2bb38801e8b879d224c8f4e9677bd4ca025a0bddb57e6eab8a9168b982",
+      "release_sha256": "a5027f2bb38801e8b879d224c8f4e9677bd4ca025a0bddb57e6eab8a9168b982",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "source_sha256": "783cce8ebf081a31924927dbd1c6599bb2c8ed482e4433a18c9e85a4249dfcf0",
+      "release_sha256": "baf734457f8d732def23e20faa2aedfc4d703d7ffe93618dfad17f85deaa334d",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "source_sha256": "f31795a37f5e54ab325a17f761196739ca78b7165a687a05d3f9b50648fb31b3",
+      "release_sha256": "1ea31e2ad77d64f1da8f54f402c28736cbc5e5162fd91e01906438c8ecd5fe19",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "source_sha256": "2bd8c28bfb6b96bf947b6337c1f988c125a2480ace9a48363aa769f067491556",
+      "release_sha256": "2bd8c28bfb6b96bf947b6337c1f988c125a2480ace9a48363aa769f067491556",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "source_sha256": "6a3a2e6989837cfe8708641cf1acd41016b8dc77f83a08fd471659e4ef6241ad",
+      "release_sha256": "0bfcfdf7a7b74b19eea5caff0854621ca4e644a5df79b35efe87d5ce0ab8ab7d",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "source_sha256": "969ab63d2e70fa023ad869c8362534495ca3a0c28c1efb16cd89532a6dac9d06",
+      "release_sha256": "c76f1e79ceb1db846ed1771f71944edc20612afd2e410823169251d604e0cb31",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "source_sha256": "9e2285a6848f83a4374b37bd9b747220ddd2a9b3867f0a18495168876d04851b",
+      "release_sha256": "d1981944708225836725d990a2ec854d3c0b509042d010ef5614afa932d50568",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group1_model.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "source_sha256": "26968163f183345cb17d93cbdc7003009f1a2ada69497151c7cce232f34ef093",
+      "release_sha256": "3dd90484157ba938b989a17fd0d63c44446c3fe02ec56a0b346c5166ac237b94",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_direct.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "source_sha256": "99d79e46fdcc8fcf29f0d57d29929e2ac598c6ff379973e33dce619e181f40fc",
+      "release_sha256": "98e1bd9cd64edeea689272f2857c04ecef8083a21d10f9571011470f5f601910",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_joint.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "source_sha256": "985ab0c247ad6e000a29c19a1fbccff350b013356986485abb7c326534fd8466",
+      "release_sha256": "7071b04888ab793e4cc25db4d6c524dbdbd129e036b17f7ff6eb30695bbbf9a3",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_idm.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "source_sha256": "5483245de7405f427b66efa23c04aada3300ac4f50a75a8398831cd1989ac08c",
+      "release_sha256": "c248340f51456906f3d27e11ecc0cc262c2425d603152606868c456f290f675f",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "source_sha256": "05d26505e3ed1fa1dac86e7edf4fbcb9f94d0d5197abf417c37cc12b25440b3a",
+      "release_sha256": "8a4ca7168245857cd0dd4d283ac22fe12920d9a2a1e08de2eee72ce64c55a257",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/analyze_group3.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "source_sha256": "645802bb825656de96da1287c83c9773e85641541db0a24b1fb2d8376580ebe1",
+      "release_sha256": "44d900b1c79b4f126236bd031f30ad86f01db6d10a5ad32edaca0a5c7c54ac3d",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "source_sha256": "a93e80d63c9cfe822815d1e1791328f3893e6f6bae026f34dc202f3b6bd10199",
+      "release_sha256": "eb8092d2ee3b39b7ce75aa851998cb8757f6af97c515a425d63480d562e219c4",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "source_sha256": "f8cc4b071e155992ae97d84f0e5fc17f7aba8765bec2faff18d4a1087060c97e",
+      "release_sha256": "09b25fc94a5836f0000fc10b1a16694836560bb1ac40353c7e8179f95ded81b9",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "source_sha256": "995a6c64088d2ec7a49cf93025773b33d05565bc768b5d3aaf3fbdd992632c7a",
+      "release_sha256": "be2642adb9dd6f4172665533783fef91f6903188c11b71d1c8681bc12ee076bd",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "source_sha256": "a6d35e780efcec8b96a4a656ec867969f943e15baf6102c35fff57298f267080",
+      "release_sha256": "bb6ab9edb03ef7a10f7735a1fd442fe242411a9e7af2ebfbf6ee776e1821dbd0",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "source_sha256": "29ccfc38f962a19345bba6039587db15d58cdee641934d051862dc222ea9309c",
+      "release_sha256": "29ccfc38f962a19345bba6039587db15d58cdee641934d051862dc222ea9309c",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "source_sha256": "5ac059385f1197749692541fe8d8c2b58c254156af3b14f8636d47b0f7b964df",
+      "release_sha256": "f2b67cf6b40dc74c82cc87044172e5650cc4dde4c70fe20a99c4603eeb515882",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "source_sha256": "618223d5ee6c845d60e79b8bb59300545a33bee325ee92af2a7ead22d12be403",
+      "release_sha256": "618223d5ee6c845d60e79b8bb59300545a33bee325ee92af2a7ead22d12be403",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "source_sha256": "6809986f522a4141e536c22857620f4f0c3cc832261c9a6170eff8b8d189b48f",
+      "release_sha256": "6809986f522a4141e536c22857620f4f0c3cc832261c9a6170eff8b8d189b48f",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "source_sha256": "c0972a48cc87019b3c83a48ab4ed4d3da8e5e4bfd03126af78ce39390361ac3a",
+      "release_sha256": "c0972a48cc87019b3c83a48ab4ed4d3da8e5e4bfd03126af78ce39390361ac3a",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "source_sha256": "7bdfaac68e662be237e425afcfcffb2a1bdbbfee61c42f193895468c29d7607a",
+      "release_sha256": "eb2faf0beedb69464fcdae2c182808aa290b01dda72011d367e2b5b0744f5a23",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "source_sha256": "b1697d5e0e8495ae0368c097e6137423ef4c27fe0b62d4357c5bdb97cc41c8d3",
+      "release_sha256": "b1697d5e0e8495ae0368c097e6137423ef4c27fe0b62d4357c5bdb97cc41c8d3",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "source_sha256": "aeff2c838ba042afc81d606141ebf3a1458d8a8f8f606771132914df2399f10b",
+      "release_sha256": "aeff2c838ba042afc81d606141ebf3a1458d8a8f8f606771132914df2399f10b",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/strict_interaction_J/analyze.py",
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "source_sha256": "0e69a3782a36a5bbbf69c317d8c0f3981223c21c6ba6598fe5b1dbc38a1fadc9",
+      "release_sha256": "1558c1db1e2d9cee453902f3b6fbe89b8548605f15e16d988d3e50fba216eab9",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/propagated_future_component/run_analysis.py",
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "source_sha256": "c9942540e48d9f23ef3058757db2bbf2652aa46840b0a82b5658410a5227ca8d",
+      "release_sha256": "4459a22ab5cb65c30507f8321a23c499def9f1575921c10b8fde61a69efb8796",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "source_sha256": "9ea0db54832eb099fb63422c45b13402e52465c08830c75824e7c9b9ac533786",
+      "release_sha256": "9ea0db54832eb099fb63422c45b13402e52465c08830c75824e7c9b9ac533786",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "source_sha256": "def4113e0bfae501d78ae32c46a24a3563b8bc69d07dcced6ac23409c27f4119",
+      "release_sha256": "def4113e0bfae501d78ae32c46a24a3563b8bc69d07dcced6ac23409c27f4119",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "source_sha256": "fed4ceaf6981d7f1820391c185eddb4e6649aeef9255a2412a8c59103ddeceda",
+      "release_sha256": "42ce31e12836a0c49ea6aca4726ec3a812a8274873f6d137252ba6a29212f911",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "source_sha256": "fb402e14cc1c6a3c1d0f411e6f33d2cc59eb442f5aac8c528905c15f6481cf5a",
+      "release_sha256": "1068673169b24b55c655fc79c49e72d9459eb7a8f3f18da8dd78846c61385e61",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/capture.py",
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "source_sha256": "814160b88f9f2aa57f5fe53d3bc1f726f4fb42b72213774e7c41a7b0a34f6519",
+      "release_sha256": "c538af40dc82a58873f0a8518933c9212978be79c258802b1d0235c7c6aa2dce",
+      "path_expressions_relocated": 10,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/protocol.py",
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "source_sha256": "ded35d287b3efd641bd0e459937541030e78188e2bb91b13c891cd1b87bedeb4",
+      "release_sha256": "94103c15d85ba53266ef36835e09cb4da5ddaf820e986301d1466d23227a8233",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group0.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "source_sha256": "b6f9b2779b9d524e2b76294eeb4003a4d48c260b71e0ad66d749cc1b171f04ce",
+      "release_sha256": "71aa21efe8ea57eaab026a40e43d46b0e1dc2a709cb63c9a6e708f03a43281c5",
+      "path_expressions_relocated": 9,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "source_sha256": "7fee50d95638b011d8dd6506e292aecc149129dc1f8670b0799cc7b3c5c0ff99",
+      "release_sha256": "99d3e91d45c521f325556ea0c32b519675a135cc7b4811d52ad0fc7a56ed1a36",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "source_sha256": "ca1a1a3630c19ab544c040372a6884713f987ddee08db248a9247dbf0589260c",
+      "release_sha256": "0209e4be94b5495d17f9534651b9ff847ed4b6e5035c9e1f3b457b7f5aa5bf8f",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "source_sha256": "7ebc439726bd3da15a5fc114ef26a5a571e5367c2f589cd806c3dfe94dd64366",
+      "release_sha256": "8f64645cbce3a661fb4ac5ffdcac02a79f5719f2ad43952191530b18fc18b430",
+      "path_expressions_relocated": 7,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "source_sha256": "c41e9878be414ead24e26c581f5eab195409ac152c8866ef43dc386bea1ec414",
+      "release_sha256": "ab4975601c576d1214c1cefdbadb50a4a70782140f7a7f11937a0035bcd148be",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "source_sha256": "4c2ff6cb77a7e76de40e0672044b177b5fc22c5de577c7ad4fd538c5125e5e2f",
+      "release_sha256": "66f7fa324c156dcaba5a7944599c9daee8946842dcf92a28f81da41380afdeb7",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "source_sha256": "f3ea0a302922047ab4cd56a3ca6151f4c15dabf4f3b7c4f5f5659aae75e43273",
+      "release_sha256": "f3ea0a302922047ab4cd56a3ca6151f4c15dabf4f3b7c4f5f5659aae75e43273",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "source_sha256": "c3631baf8a3d5bf864ede8999e7f11699a869ae09ae0805c0a10ffb517a6e358",
+      "release_sha256": "3006cdce1891ab8c43a2a76d436f67f2674f9f57d546ad6d8f32a50c08bf6ab9",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "source_sha256": "70cb475154f82cc39a78aa81657297ccbc743e537ecd5985125797c3f24bab50",
+      "release_sha256": "70cb475154f82cc39a78aa81657297ccbc743e537ecd5985125797c3f24bab50",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "source_sha256": "81f223b5fd2368c64fe48e0c395dab1abbf2bfe98490d59c71ad4174e990b969",
+      "release_sha256": "81f223b5fd2368c64fe48e0c395dab1abbf2bfe98490d59c71ad4174e990b969",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/group1_config.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "source_sha256": "05a34a8fb086c7fd98a0221c8b5ce62c2190e857cbeef6b7d5e4e9ff3a256434",
+      "release_sha256": "683d86904b88eac58b88552061dd46f3ff24605f497b4a12ba5dfc854481ecb9",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/embodiment_phase_gate_work/phase_protocol.py",
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "source_sha256": "eeb09e1335121285eff43384897e2bb11372a4e1d2e844b67cd1cf13bf8828ea",
+      "release_sha256": "79da2feeb37054469c9dfdc7d785a2bb3df31e9d396952e16142e5952c58db16",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/synchronization_lag_work/sync_protocol.py",
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "source_sha256": "fecb1b3e885d3473ac71cc5e1eaf4732af6b32e806cbd6dcbaf78d43f5e8b8d3",
+      "release_sha256": "59a8f60b0fa7cc5c6daa4d34f71a53e279c22f6e0a05ab1dceecf575cd70b23d",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/config.py",
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "source_sha256": "1ab3c9674ff3de075808f947ea09e364221a95868213e66d975ef62c4ea9a8fc",
+      "release_sha256": "a3508def61d828b225ecd1d8629c5a5dafe17f96de57eb7caa1dc7bb835d498c",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/hardware_authority.py",
+      "source": "@WORKSPACE@/week1_audit_work/hardware_authority.py",
+      "source_sha256": "8a57a483bf527ae20383268454f5481e51ea2d7e1ba7e882183f9d536e5b2495",
+      "release_sha256": "8a57a483bf527ae20383268454f5481e51ea2d7e1ba7e882183f9d536e5b2495",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/run_step2.py",
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "source_sha256": "364a53eeb9be9b4ea671482b22abf159391ed75fce34d500e4bbd156c4d5d7c1",
+      "release_sha256": "dc00ad8b300873ce1759ab507aac640b4d445af378241037dea135f7330c33b6",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "source_sha256": "2e85f7c017cf4d6acd7ee089912e9340cd94c8b241c832f7e8c40db3437bc90c",
+      "release_sha256": "5e79992cf1433c715290c7428bed38b7b2fb16248ae8026972d0cba3bb81e54a",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_idm_same_frame_goal_work/common.py",
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "source_sha256": "28a1f5841407524732258bb7b6aa4c9352e977b43c7891f777b622eb976091fb",
+      "release_sha256": "1180c9e3e6bc41500653bbab3b313a02fc5a7e9649957b4af2220c0c315331de",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_direct_causal_work/direct_core.py",
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "source_sha256": "41d42656142b496c8ac4f1ce0246b772e6c6979a194eff37d471217689e9b48e",
+      "release_sha256": "6bbc7577459fe064d4b0970415673022e64bc7fc85a6675d0746a6e229eb144f",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "source_sha256": "ff25b37b1b48687c7db4795a49652ab25d31e987759d3ca404ebcf3672bd6882",
+      "release_sha256": "fb677eeedca39d7a43ee5880e3dfefb821b60d71b054811c5dd9a66b2c6b35f1",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/registry_interventions.py",
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "source_sha256": "b00e33544e8f60906e0238f59d154cfa4072fb7eb6d05335ecee5d2eee58d483",
+      "release_sha256": "7d725b57e27f012b5a13cc5e611beadce7d74a14edf8269683d75a1be650d3e4",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "source_sha256": "c5d910d4088ac6b44a9a0c058f34a3f3dd0869b2e194b1360d5f7b6c0185e367",
+      "release_sha256": "c5d910d4088ac6b44a9a0c058f34a3f3dd0869b2e194b1360d5f7b6c0185e367",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_idm_causal_audit_work/run_smoke.py",
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "source_sha256": "5e0453a2193e828c5aad972d4484d85233f9bfe2707cab7a74a94ea4fb089eed",
+      "release_sha256": "f2111574bdf276b0851f1d09f504fd1194f6a697edb73bd8e50f21b87c77c629",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "source_sha256": "25a28ae374a4b6a6e3aab635a4db4239e69fc04bcbaa204684dfd275d695c809",
+      "release_sha256": "2200e1104ecf57017028f4f7b46eac71906c4b2344973eb5ba4df72e94f32779",
+      "path_expressions_relocated": 1,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "source_sha256": "2429a1614cb04e2324dfb606698b336fec1d4d2baf7f10b007a991c7ca709fcd",
+      "release_sha256": "2429a1614cb04e2324dfb606698b336fec1d4d2baf7f10b007a991c7ca709fcd",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "source_sha256": "23e7113457d14d450dd7e484e5858e10c00ca349fa774107342b68a69902cd27",
+      "release_sha256": "23e7113457d14d450dd7e484e5858e10c00ca349fa774107342b68a69902cd27",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "source_sha256": "78bed38709be585b46160980aec2c69aed3f1cb19953ad94dc5832653c933648",
+      "release_sha256": "7ca81626a8324680147352dc889881868908dd08130e9a435d7a4ec62f31d6be",
+      "path_expressions_relocated": 7,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "source_sha256": "06c9787e1e42cca21b6870ae09a0413287f392c9d6ee4ec8b697f787fabb397b",
+      "release_sha256": "d5a37b145bcd76575675dcf56ed7b483c8335146d3414d961e1303c5c663d237",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "source_sha256": "9eb7334037726618117b8766d0d0e061d8b1cc240d0770fb377aed36a8a513d3",
+      "release_sha256": "ed07d8672cf9643397a5fa13552591f930923a558c404a0e9f9a2045504af8fb",
+      "path_expressions_relocated": 5,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/task_specs.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/task_specs.py",
+      "source_sha256": "fdcf35d761874eb34e82cc12b5dd28f5b514a0cdd6a0f12012b9e93a25742896",
+      "release_sha256": "fdcf35d761874eb34e82cc12b5dd28f5b514a0cdd6a0f12012b9e93a25742896",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/registry_features.py",
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "source_sha256": "9de68ac8f9a18d2d7b86b8cf65d0abc144110b6119f668990042a88012883735",
+      "release_sha256": "4f650f8312e9b0df9eedff2da8b41214af802c20734c22f67ab0ec2d988f1411",
+      "path_expressions_relocated": 2,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "source_sha256": "fc275090039026d2bc236cc302599146baa803a5c1c15b00a898a23932267193",
+      "release_sha256": "fc275090039026d2bc236cc302599146baa803a5c1c15b00a898a23932267193",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "source_sha256": "1c8cb05eb282d9d0c4239970ab25cc61409e9c3cd470f7045e3525cc91297677",
+      "release_sha256": "1c8cb05eb282d9d0c4239970ab25cc61409e9c3cd470f7045e3525cc91297677",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "source_sha256": "9ca6c6c7412420b001175e75b72833500c0a97dcaccd6c774d0989f80335ac8a",
+      "release_sha256": "9ca6c6c7412420b001175e75b72833500c0a97dcaccd6c774d0989f80335ac8a",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "source_sha256": "6e3c8308c7e52311ef90bfa82c009f023ee2565e74a9268971f23b79dcc8b873",
+      "release_sha256": "e4133fbaae4fcaa874298c5f4a326f4293a6a40fc1618c86c238cec93a268201",
+      "path_expressions_relocated": 3,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "source_sha256": "4a9473e0e3ae819c76d5cf86394b5846ae1e308f342cb732dc8a8f1207e29276",
+      "release_sha256": "4a9473e0e3ae819c76d5cf86394b5846ae1e308f342cb732dc8a8f1207e29276",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "source_sha256": "10b374cd9b49d9f5c11532a409d7e56822c536ff2b2cb6554d43c1e0e5f95e19",
+      "release_sha256": "10b374cd9b49d9f5c11532a409d7e56822c536ff2b2cb6554d43c1e0e5f95e19",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "source_sha256": "e2b36ae1272d2673dfe9eb5c5b4e5380ce1db27abfb0aaef68a5c327f8dead4f",
+      "release_sha256": "e2b36ae1272d2673dfe9eb5c5b4e5380ce1db27abfb0aaef68a5c327f8dead4f",
+      "path_expressions_relocated": 0,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "source_sha256": "da68bf8eba657eac997c6450e37dc03720b505499011bebe8c8ef1c03536a012",
+      "release_sha256": "9e3c9333f74fa0f1c8bca482ce2b0e671b35fe628804704800f505951ed5af33",
+      "path_expressions_relocated": 4,
+      "kind": "reference_code",
+      "validation": "AST_ONLY_NOT_RUNTIME_TESTED"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/fig2_physical_response_data.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/fig2_physical_response_data.csv",
+      "source_sha256": "b082fe0356aafdc0e4eb2710985923e18f622ff947a27328ecaa1261587cdc0f",
+      "release_sha256": "b082fe0356aafdc0e4eb2710985923e18f622ff947a27328ecaa1261587cdc0f",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/fig3_f1_attribution_data.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/fig3_f1_attribution_data.csv",
+      "source_sha256": "fcabfa8130c830a547ba6dd7f4df971c866e7ae2c440771b261fd1f303530f37",
+      "release_sha256": "6589758cb93eed300f92ed850f5212cd13d3bda96e4cb178fd110bd6ba0070f3",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/fig3_f3g_attribution_data.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/fig3_f3g_attribution_data.csv",
+      "source_sha256": "756065d87ac367415666712802ff8567317b700236432ae5d4464b7eb7a99754",
+      "release_sha256": "756065d87ac367415666712802ff8567317b700236432ae5d4464b7eb7a99754",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/fig3_restoration_source_data.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/fig3_restoration_source_data.csv",
+      "source_sha256": "f1490743b28a935dca866a5d2eee80814ba8cf856f69c20172505da2ff1962ff",
+      "release_sha256": "f1490743b28a935dca866a5d2eee80814ba8cf856f69c20172505da2ff1962ff",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/budget_confirmation_timing_audit.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/budget_confirmation_timing_audit.csv",
+      "source_sha256": "099ea601e00253d4092682c2072f12165aae41756eeba7cee53bfc7093bdfcb7",
+      "release_sha256": "a212cc2ce92f9639a444d118d0247a049b66c9c5b14fa4077bcfd8eaef383b95",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/budget_response_example.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/budget_response_example.csv",
+      "source_sha256": "e24f066a7020dd4595ade8b75c3f2c435a9b8191cbf3b60926d7973cc54d5f90",
+      "release_sha256": "e24f066a7020dd4595ade8b75c3f2c435a9b8191cbf3b60926d7973cc54d5f90",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/figure_assets/fig5_trajectory_residuals.csv",
+      "source": "@WORKSPACE@/FastWAM/figure_assets/fig5_trajectory_residuals.csv",
+      "source_sha256": "31f88e1fc5d68cd23499c1238f12ed5aadb8b893566715e27452750fb78d50e8",
+      "release_sha256": "31f88e1fc5d68cd23499c1238f12ed5aadb8b893566715e27452750fb78d50e8",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/experiments/followup_s1_s2_s3/s1_f3g_attribution/v3/02_per_case_attribution.csv",
+      "source": "@DATA@/wam_factor_routing_v5/experiments/followup_s1_s2_s3/s1_f3g_attribution/v3/02_per_case_attribution.csv",
+      "source_sha256": "3c3a5bad447b8f97576799248c269b1c47d9b7c2471f8d9d596507546ab5e228",
+      "release_sha256": "3c3a5bad447b8f97576799248c269b1c47d9b7c2471f8d9d596507546ab5e228",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/phase1_evidence_mechanism_posthoc_v1_20260909/joint_scaling_residual_statistics_units_corrected.csv",
+      "source": "@DATA@/wam_factor_routing_v5/phase1_evidence_mechanism_posthoc_v1_20260909/joint_scaling_residual_statistics_units_corrected.csv",
+      "source_sha256": "174a5795e3acf1419458d359e9de72807ccb21d0e147dff0ac2da850d0f31252",
+      "release_sha256": "174a5795e3acf1419458d359e9de72807ccb21d0e147dff0ac2da850d0f31252",
+      "kind": "plot_input",
+      "validation": "ALL_CSV_CELLS_UNCHANGED_EXCEPT_PATH_STRINGS"
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/main_figure_common.py",
+      "source": "@WORKSPACE@/FastWAM/scripts/main_figure_common.py",
+      "source_sha256": "63999d422d3b463d6fa0e8927ef5a01cbfb9c32cba56f4ded743c748148b45d0",
+      "release_sha256": "fd7940c36a4dd2f2f3628c2835545ca1de25a8b723570d498fec3d69d4180433",
+      "kind": "plot_code",
+      "validation": "PATH_ADAPTER_AND_SANITIZED_INPUT_HASH_GUARDS_ONLY"
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/main_figure_layout_v2.py",
+      "source": "@WORKSPACE@/FastWAM/scripts/main_figure_layout_v2.py",
+      "source_sha256": "45bf307467df566baa9a48d495a19b48cdf4b732505fa0aab0e99897ee9ef4a4",
+      "release_sha256": "45bf307467df566baa9a48d495a19b48cdf4b732505fa0aab0e99897ee9ef4a4",
+      "kind": "plot_code",
+      "validation": "PATH_ADAPTER_AND_SANITIZED_INPUT_HASH_GUARDS_ONLY"
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig2_physical_response_v5.py",
+      "source": "@WORKSPACE@/FastWAM/scripts/plot_fig2_physical_response_v5.py",
+      "source_sha256": "05d3ae2f009ec5fa901511513b0854cb696e697c5dc75199ec034bd853f77ff1",
+      "release_sha256": "05d3ae2f009ec5fa901511513b0854cb696e697c5dc75199ec034bd853f77ff1",
+      "kind": "plot_code",
+      "validation": "PATH_ADAPTER_AND_SANITIZED_INPUT_HASH_GUARDS_ONLY"
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig3_joint_attribution_v4.py",
+      "source": "@WORKSPACE@/FastWAM/scripts/plot_fig3_joint_attribution_v4.py",
+      "source_sha256": "0871ee6a267b7d248cd6450c4819dd978a5945019e23ddef815cd1e507b401c0",
+      "release_sha256": "356989d38a5efba457b68d98cd8c5cd7dfd18a7eae41932de80051d3ef53173a",
+      "kind": "plot_code",
+      "validation": "PATH_ADAPTER_AND_SANITIZED_INPUT_HASH_GUARDS_ONLY"
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig_reduced_compute_v5.py",
+      "source": "@WORKSPACE@/FastWAM/scripts/plot_fig_reduced_compute_v5.py",
+      "source_sha256": "9a4a928cfa1a9d748dea69b75ad3b5924f1976d228a5ef3a9376de16a905d264",
+      "release_sha256": "89e2070fa894a8aca552777d21a2b50ee63620681176a8ca65e9a2355787d139",
+      "kind": "plot_code",
+      "validation": "PATH_ADAPTER_AND_SANITIZED_INPUT_HASH_GUARDS_ONLY"
+    }
+  ],
+  "unresolved_imports": [
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "platform",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "subprocess",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "PIL",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "module": "scipy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group1_model.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_direct.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_joint.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_idm.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "itertools",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/analyze_group3.py",
+      "module": "scipy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "random",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "hydra",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "omegaconf",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "subprocess",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "contextlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "random",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "signal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "hydra",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "omegaconf",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "shutil",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/strict_interaction_J/analyze.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "datetime",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/propagated_future_component/run_analysis.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "main_figure_layout_v2",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "module": "main_figure_common",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "contextlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "fcntl",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "pickle",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "random",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "signal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "PIL",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "hydra",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "omegaconf",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "fcntl",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "secrets",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "signal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "subprocess",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "contextlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "psutil",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@DATA@/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "omegaconf",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "imagewam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "run_libero_object_causal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "world_rep",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/capture.py",
+      "module": "controlled_prefill",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/protocol.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "attackwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "imagewam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/run_group0.py",
+      "module": "run_libero_object_causal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "fcntl",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "shutil",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "random",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "subprocess",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "zipfile",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "ast",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "types",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/group1_config.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/embodiment_phase_gate_work/phase_protocol.py",
+      "module": "scipy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/synchronization_lag_work/sync_protocol.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/experiments/wam_control_state_v3/config.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/hardware_authority.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/hardware_authority.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/week1_audit_work/hardware_authority.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "run_libero_object_causal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/run_step2.py",
+      "module": "world_rep",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "gc",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "signal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "threading",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "subprocess",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "fcntl",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "module": "importlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/common.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_direct_causal_work/direct_core.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "types",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "imagewam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "run_imagewam_first_grasp_lock",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "run_libero_object_causal",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "controlled_prefill",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "module": "world_rep",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_interventions.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_causal_audit_work/run_smoke.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "random",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "openpi_client",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "openpi_client",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "examples",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "deploy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "hydra",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "hydra",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "fastwam",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "experiments",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "module": "experiments",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/task_specs.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/task_specs.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/step1_step2_51locus_work/registry_features.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "imageio",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "robosuite",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "robosuite",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "mujoco",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "mujoco",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "cv2",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "cv2",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "cv2",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "module": "cv2",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "hashlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "traceback",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "robosuite",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "module": "libero",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "os",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "re",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "time",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "__future__",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "argparse",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "csv",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "json",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "math",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "sys",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "collections",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "dataclasses",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "pathlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "typing",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "matplotlib",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "numpy",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "pandas",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "torch",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "diffusers",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "PIL",
+      "status": "EXTERNAL_OR_STDLIB"
+    },
+    {
+      "source": "@WORKSPACE@/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "module": "modules",
+      "status": "EXTERNAL_OR_STDLIB"
+    }
+  ],
+  "excluded": [],
+  "no_models_or_simulators_executed": true
+}

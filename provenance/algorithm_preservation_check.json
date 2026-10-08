@@ -1,0 +1,347 @@
+{
+  "status": "PASS",
+  "files_compared": 85,
+  "rows": [
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_experiment_a.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/analyze_experiment_a.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/c_restore_v2.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/confirmatory_common.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_c_early_stop.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_b_forward.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_local_future.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_new_six_cells.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_new_statistics.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase1_scaling_analysis.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_compute_mechanism_posthoc.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_run_v3.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_statistics.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/analyze_joint_confirmatory.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/generate_group1_donors.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group1_model.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_direct.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_joint.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_idm.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group2_imagewam.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/analyze_group3.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4a_native_model.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4b_interim.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group4b_idm.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group5c_execution.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/early_stop.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/common.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/analyze_primary.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/analyze_closed_loop.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_reduced_compute/audit_closed_loop_validity.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/worker.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/analyze.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/experiments/robotwin_interface_proprio/readonly_closeout.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/strict_interaction_J/analyze.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/propagated_future_component/run_analysis.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/budget_backend.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/analyze.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/robotwin_identity_amendment_worker.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/data/wam_factor_routing_v5/experiments/robotwin_identity_amendment_coverage_20260921T103100Z/runtime/runtime.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/capture.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/protocol.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/run_group0.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_joint_causal_work/run_joint_smoke_pair.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_first_grasp_lock.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_native_validation.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/phase2_native_launcher.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_baseline_diagnostics.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/run_joint_new_feature_diagnostics.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_followup.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_hash_adapter_v2.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/joint_strict_consumption_audit_A_work/s1_wrapper_v3.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/group1_config.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/embodiment_phase_gate_work/phase_protocol.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/synchronization_lag_work/sync_protocol.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/experiments/wam_control_state_v3/config.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/week1_audit_work/hardware_authority.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/run_step2.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/results/budget_K8_confirmation/campaign.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_idm_same_frame_goal_work/common.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_direct_causal_work/direct_core.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/cross_wam_language_rep_2x2_work/k2_imagewam_adapter.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/registry_interventions.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_idm_causal_audit_work/imagination_intervention.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_idm_causal_audit_work/run_smoke.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/d2_pilot_utils.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/first_grasp_lock_injector.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/full_state_writer.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/policy_adapters.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_clean.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/run_occ_still.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/task_specs.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/step1_step2_51locus_work/registry_features.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/badwam_idm_same_frame_goal_work/run_one_call.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/d2_ghost_scheduler.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/perm_occlusion_scheduler.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/libero_full_state_clean_v1/ddi_experiment.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/translation_injection_scheduler.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/multisample_sidecar.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/dynaprobe_rollout_v1.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/evaluation/d2_ghost_pilot/analyze_lingbot_motion_readout.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/main_figure_common.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/main_figure_layout_v2.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig2_physical_response_v5.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig3_joint_attribution_v4.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    },
+    {
+      "path": "reference/workspace/FastWAM/scripts/plot_fig_reduced_compute_v5.py",
+      "algorithm_ast_equal_after_documented_path_and_hash_relocation": true
+    }
+  ],
+  "scope": "No dynamic validation; only path literals, import of relocation helper, and released plotting-asset hash guards normalized"
+}

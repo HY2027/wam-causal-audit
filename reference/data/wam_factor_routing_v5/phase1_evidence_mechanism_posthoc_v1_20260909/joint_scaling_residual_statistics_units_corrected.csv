@@ -1,0 +1,342 @@
+endpoint,scope,stratum,metric,estimate,ci_low,ci_high,bootstrap_valid,trajectory_n,unit
+FIT_BASIS,ALL,ALL,rmse_unscaled,0.0079440745462477,0.0062290024231704,0.0098459911818076,10000,50,denormalized translation command
+FIT_BASIS,ALL,ALL,rmse_scaled_crossfit,0.0078123558407253,0.0061699629743123,0.0096399662609872,10000,50,denormalized translation command
+FIT_BASIS,ALL,ALL,mse_scaled_minus_unscaled,-2.075416614226017e-06,-1.0086463725090013e-05,5.26640011906067e-06,10000,50,squared denormalized translation command
+FIT_BASIS,ALL,ALL,signed_residual,0.0004953972162799,-0.000436462550162,0.0013449192767041,10000,50,denormalized translation command
+FIT_BASIS,ALL,ALL,fraction_unscaled_SSE_removed,0.0328865766224122,-0.0905106739313697,0.1362986682084388,10000,50,aggregate SSE fraction; not source authority share
+future_Crec,ALL,ALL,rmse_unscaled,0.008131716682344,0.0062560668884664,0.010229136597078,10000,50,denormalized translation command
+future_Crec,ALL,ALL,rmse_scaled_crossfit,0.0074578381669575,0.0060642076378224,0.0091100857264687,10000,50,denormalized translation command
+future_Crec,ALL,ALL,mse_scaled_minus_unscaled,-1.0505466077383924e-05,-3.0756129083884784e-05,5.59720347007188e-06,10000,50,squared denormalized translation command
+future_Crec,ALL,ALL,signed_residual,0.0005830124688675,-0.0003537780281102,0.0013217355590445,10000,50,denormalized translation command
+future_Crec,TASK,5,rmse_unscaled,0.0082317775211374,0.0060063466779151,0.0106671739073053,6789,10,denormalized translation command
+future_Crec,TASK,5,rmse_scaled_crossfit,0.0074456525179291,0.0059857530543595,0.0099228060561343,6789,10,denormalized translation command
+future_Crec,TASK,5,mse_scaled_minus_unscaled,-1.2324419739759029e-05,-3.5597532323038654e-05,9.676261160620363e-06,6789,10,squared denormalized translation command
+future_Crec,TASK,5,signed_residual,0.0006574206400371,-0.0001839307935471,0.0013279200230637,6789,10,denormalized translation command
+future_Crec,TASK,6,rmse_unscaled,0.0112720325354487,0.0082636410238892,0.0138240931430136,6700,10,denormalized translation command
+future_Crec,TASK,6,rmse_scaled_crossfit,0.0100790217095879,0.0076923091902029,0.0126930743122606,6700,10,denormalized translation command
+future_Crec,TASK,6,mse_scaled_minus_unscaled,-2.547203885786902e-05,-6.247159450094541e-05,9.006123733822452e-06,6700,10,squared denormalized translation command
+future_Crec,TASK,6,signed_residual,0.00130561753337,-9.71567943309916e-05,0.0025200853258745,6700,10,denormalized translation command
+future_Crec,TASK,7,rmse_unscaled,0.0056921116545073,0.0047145425520162,0.0068073617785841,6758,10,denormalized translation command
+future_Crec,TASK,7,rmse_scaled_crossfit,0.0053237970098129,0.0043996635776745,0.006548490359527,6758,10,denormalized translation command
+future_Crec,TASK,7,mse_scaled_minus_unscaled,-4.057320485686152e-06,-7.892785521889194e-06,3.144238034653777e-06,6758,10,squared denormalized translation command
+future_Crec,TASK,7,signed_residual,0.0007167551576529,0.0002202315096231,0.0011653712963421,6758,10,denormalized translation command
+future_Crec,TASK,8,rmse_unscaled,0.0072576871412347,0.0058117200674455,0.0085320047722342,6752,10,denormalized translation command
+future_Crec,TASK,8,rmse_scaled_crossfit,0.0070427313128055,0.0056323546208451,0.008433632754434,6752,10,denormalized translation command
+future_Crec,TASK,8,mse_scaled_minus_unscaled,-3.073958295672188e-06,-8.513579182619534e-06,3.961709660750715e-06,6752,10,squared denormalized translation command
+future_Crec,TASK,8,signed_residual,-0.0002781383702027,-0.0017123296985355,0.0010313202708184,6752,10,denormalized translation command
+future_Crec,TASK,9,rmse_unscaled,0.007122432494901,0.0051630688516601,0.0089741499402068,6650,10,denormalized translation command
+future_Crec,TASK,9,rmse_scaled_crossfit,0.006567301701345,0.0050097138213131,0.0087453997943254,6650,10,denormalized translation command
+future_Crec,TASK,9,mse_scaled_minus_unscaled,-7.599593007933285e-06,-2.4919582826465868e-05,1.1159679468337847e-05,6650,10,squared denormalized translation command
+future_Crec,TASK,9,signed_residual,0.0005134073834802,-0.00142333379935,0.0021740976750268,6650,10,denormalized translation command
+future_Crec,DOSE,-1.0,rmse_unscaled,0.0085024585628644,0.006627885835777,0.0106103407660628,10000,50,denormalized translation command
+future_Crec,DOSE,-1.0,rmse_scaled_crossfit,0.0078812852652045,0.0064841160255301,0.0095910783543166,10000,50,denormalized translation command
+future_Crec,DOSE,-1.0,mse_scaled_minus_unscaled,-1.0177144181696145e-05,-3.138791574664814e-05,7.249462014046864e-06,10000,50,squared denormalized translation command
+future_Crec,DOSE,-1.0,signed_residual,0.001317194987217,6.860035831467082e-05,0.0024348817379579,10000,50,denormalized translation command
+future_Crec,DOSE,-0.5,rmse_unscaled,0.0090356128142497,0.0061349887920076,0.0123479550300933,10000,50,denormalized translation command
+future_Crec,DOSE,-0.5,rmse_scaled_crossfit,0.008262080430806,0.0061100466074334,0.0106465296944949,10000,50,denormalized translation command
+future_Crec,DOSE,-0.5,mse_scaled_minus_unscaled,-1.3380325883926272e-05,-4.874891101506381e-05,6.397089659624419e-06,10000,50,squared denormalized translation command
+future_Crec,DOSE,-0.5,signed_residual,0.001011299766454,-0.0001633010918327,0.0021699292280495,10000,50,denormalized translation command
+future_Crec,DOSE,0.5,rmse_unscaled,0.0061314629911361,0.0049188278909238,0.007406924147309,10000,50,denormalized translation command
+future_Crec,DOSE,0.5,rmse_scaled_crossfit,0.0056833473577512,0.0045068083507882,0.0072234214357613,10000,50,denormalized translation command
+future_Crec,DOSE,0.5,mse_scaled_minus_unscaled,-5.294401222814582e-06,-1.1190848956355584e-05,3.400204516429936e-06,10000,50,squared denormalized translation command
+future_Crec,DOSE,0.5,signed_residual,0.0001727568274129,-0.0006445374965317,0.0008098673816416,10000,50,denormalized translation command
+future_Crec,DOSE,1.0,rmse_unscaled,0.0085422670207455,0.0063800687945761,0.0107260829280394,10000,50,denormalized translation command
+future_Crec,DOSE,1.0,rmse_scaled_crossfit,0.0077330674917925,0.0060808846490149,0.0097510198303706,10000,50,denormalized translation command
+future_Crec,DOSE,1.0,mse_scaled_minus_unscaled,-1.3169993021098776e-05,-3.396222485316028e-05,7.399144721819413e-06,10000,50,squared denormalized translation command
+future_Crec,DOSE,1.0,signed_residual,-0.000169201705614,-0.0012347847673793,0.0007448704243525,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,1,rmse_unscaled,0.0064323815237876,0.0052985539944029,0.007617954065911,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.005949101408709,0.0050784971945845,0.0073958975971899,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,-5.983724496460858e-06,-1.397464590240562e-05,5.491192661241584e-06,10000,50,squared denormalized translation command
+future_Crec,CHUNK_QUARTER,1,signed_residual,0.000161541089032,-0.0006558263976313,0.0009914047875115,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,2,rmse_unscaled,0.0102689209920952,0.0072444582038646,0.0136267328216414,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.009228087168654,0.0070494755658165,0.0119153516221169,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,-2.0293145549617555e-05,-6.836532146610916e-05,1.305646881115129e-05,10000,50,squared denormalized translation command
+future_Crec,CHUNK_QUARTER,2,signed_residual,0.0004780039033775,-0.0013753442725246,0.0019376299777639,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,3,rmse_unscaled,0.0089744111658798,0.0061458744881823,0.0119963211166911,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0083415005574725,0.0060316374072804,0.0108673434318076,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,-1.0959424223955013e-05,-3.707622900337545e-05,5.525076129273252e-06,10000,50,squared denormalized translation command
+future_Crec,CHUNK_QUARTER,3,signed_residual,0.0011278433882975,-0.0012670233168231,0.0033222047231723,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,4,rmse_unscaled,0.0060936802200247,0.0043645370588061,0.0079691804222516,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0056874747106618,0.0043357320391627,0.0072512760954599,10000,50,denormalized translation command
+future_Crec,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-4.785570039502366e-06,-1.3322014095035512e-05,1.9524940904974187e-06,10000,50,squared denormalized translation command
+future_Crec,CHUNK_QUARTER,4,signed_residual,0.0005646614947628,-0.0002091767267061,0.0015452778827829,10000,50,denormalized translation command
+future_Cdonor,ALL,ALL,rmse_unscaled,0.0079728948066021,0.0060765802243434,0.010050036346081,10000,50,denormalized translation command
+future_Cdonor,ALL,ALL,rmse_scaled_crossfit,0.0073059282869669,0.0058798374148493,0.008967584309053,10000,50,denormalized translation command
+future_Cdonor,ALL,ALL,mse_scaled_minus_unscaled,-1.0190463462839404e-05,-2.972177527998696e-05,5.282220966222367e-06,10000,50,squared denormalized translation command
+future_Cdonor,ALL,ALL,signed_residual,0.0003189333466902,-0.0004815039393328,0.0009891449736794,10000,50,denormalized translation command
+future_Cdonor,TASK,5,rmse_unscaled,0.0081212427669412,0.0059178013533128,0.0104839103920853,6789,10,denormalized translation command
+future_Cdonor,TASK,5,rmse_scaled_crossfit,0.007326008274016,0.0058685008049521,0.0097525353249302,6789,10,denormalized translation command
+future_Cdonor,TASK,5,mse_scaled_minus_unscaled,-1.228418684864364e-05,-3.528430368990184e-05,9.69252139544621e-06,6789,10,squared denormalized translation command
+future_Cdonor,TASK,5,signed_residual,0.000245340057869,-0.0005323485360146,0.00086636123934,6789,10,denormalized translation command
+future_Cdonor,TASK,6,rmse_unscaled,0.011125218582337,0.0082840923400121,0.0135628917909393,6700,10,denormalized translation command
+future_Cdonor,TASK,6,rmse_scaled_crossfit,0.0099857855079227,0.0077204233064157,0.0125456459754881,6700,10,denormalized translation command
+future_Cdonor,TASK,6,mse_scaled_minus_unscaled,-2.405457629453597e-05,-5.9804833274744776e-05,8.79586781335477e-06,6700,10,squared denormalized translation command
+future_Cdonor,TASK,6,signed_residual,0.0008551792523615,-0.0005254831061828,0.0021255845607568,6700,10,denormalized translation command
+future_Cdonor,TASK,7,rmse_unscaled,0.0054218615770301,0.0043060081807858,0.0066590815989907,6758,10,denormalized translation command
+future_Cdonor,TASK,7,rmse_scaled_crossfit,0.0050167535955989,0.00408761979314,0.0063282954799369,6758,10,denormalized translation command
+future_Cdonor,TASK,7,mse_scaled_minus_unscaled,-4.228766321521082e-06,-9.28355187681462e-06,3.4984867813264743e-06,6758,10,squared denormalized translation command
+future_Cdonor,TASK,7,signed_residual,0.0004974762080358,0.0001098759393846,0.000849138605483,6758,10,denormalized translation command
+future_Cdonor,TASK,8,rmse_unscaled,0.0068778937605467,0.0056171107863983,0.0080363824850353,6752,10,denormalized translation command
+future_Cdonor,TASK,8,rmse_scaled_crossfit,0.006731921399842,0.0054489845710163,0.0080222130698737,6752,10,denormalized translation command
+future_Cdonor,TASK,8,mse_scaled_minus_unscaled,-1.98665684771762e-06,-6.315169869689231e-06,3.5602470282781166e-06,6752,10,squared denormalized translation command
+future_Cdonor,TASK,8,signed_residual,-0.0002398383169306,-0.0016794229792596,0.0010283771310389,6752,10,denormalized translation command
+future_Cdonor,TASK,9,rmse_unscaled,0.0071699497808211,0.0052796557826982,0.0089186908059001,6650,10,denormalized translation command
+future_Cdonor,TASK,9,rmse_scaled_crossfit,0.0065582046977597,0.0050067706081027,0.0086915682985122,6650,10,denormalized translation command
+future_Cdonor,TASK,9,mse_scaled_minus_unscaled,-8.39813100177869e-06,-2.558094963266427e-05,1.0600590580906377e-05,6650,10,squared denormalized translation command
+future_Cdonor,TASK,9,signed_residual,0.0002365095321153,-0.0016698174948165,0.0019313875158009,6650,10,denormalized translation command
+future_Cdonor,DOSE,-1.0,rmse_unscaled,0.0085052707113728,0.0065107195709569,0.0106424510061377,10000,50,denormalized translation command
+future_Cdonor,DOSE,-1.0,rmse_scaled_crossfit,0.0078098808571755,0.0063636724146364,0.0094943476650451,10000,50,denormalized translation command
+future_Cdonor,DOSE,-1.0,mse_scaled_minus_unscaled,-1.1345390870460184e-05,-3.424890984969504e-05,6.854621182829378e-06,10000,50,squared denormalized translation command
+future_Cdonor,DOSE,-1.0,signed_residual,0.0010245955365247,-0.0001290053552285,0.0020802307681251,10000,50,denormalized translation command
+future_Cdonor,DOSE,-0.5,rmse_unscaled,0.008858013907128,0.0057002314401534,0.0121939604718258,10000,50,denormalized translation command
+future_Cdonor,DOSE,-0.5,rmse_scaled_crossfit,0.0080347586602536,0.0056924002223628,0.01043673228539,10000,50,denormalized translation command
+future_Cdonor,DOSE,-0.5,mse_scaled_minus_unscaled,-1.3907063650353e-05,-4.983169891741832e-05,6.423379262476161e-06,10000,50,squared denormalized translation command
+future_Cdonor,DOSE,-0.5,signed_residual,0.0007814835180648,-0.0002762622320429,0.0018117172878972,10000,50,denormalized translation command
+future_Cdonor,DOSE,0.5,rmse_unscaled,0.0059353481248099,0.0048302189893301,0.0070510999049075,10000,50,denormalized translation command
+future_Cdonor,DOSE,0.5,rmse_scaled_crossfit,0.0055728767066597,0.0044542722144624,0.0069207588932411,10000,50,denormalized translation command
+future_Cdonor,DOSE,0.5,mse_scaled_minus_unscaled,-4.171402575054657e-06,-8.308427722451118e-06,3.00302175933024e-06,10000,50,squared denormalized translation command
+future_Cdonor,DOSE,0.5,signed_residual,-0.0002868264546713,-0.0009962411487827,0.0003273071050736,10000,50,denormalized translation command
+future_Cdonor,DOSE,1.0,rmse_unscaled,0.0082604968841635,0.0062583393657789,0.0103729090609147,10000,50,denormalized translation command
+future_Cdonor,DOSE,1.0,rmse_scaled_crossfit,0.0075430638349271,0.0059738520412771,0.0095415524533546,10000,50,denormalized translation command
+future_Cdonor,DOSE,1.0,mse_scaled_minus_unscaled,-1.1337996755489727e-05,-2.915139411968015e-05,6.48704939169438e-06,10000,50,squared denormalized translation command
+future_Cdonor,DOSE,1.0,signed_residual,-0.0002435192131572,-0.0011854713171856,0.0005807941769817,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,1,rmse_unscaled,0.0064495250153006,0.0052341865122382,0.007589288232289,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.0059442408062458,0.005072015143858,0.0072569046576146,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,-6.262374160350647e-06,-1.538145588882731e-05,5.421856093861096e-06,10000,50,squared denormalized translation command
+future_Cdonor,CHUNK_QUARTER,1,signed_residual,-0.0006177367884635,-0.001510243109579,0.0002281021074521,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,2,rmse_unscaled,0.0099857861128415,0.0070794608923292,0.0131359377386204,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.0089668565644126,0.0069016554719357,0.011506307777332,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,-1.931140764466892e-05,-6.431775782138221e-05,1.2310061849673324e-05,10000,50,squared denormalized translation command
+future_Cdonor,CHUNK_QUARTER,2,signed_residual,0.0002644650826832,-0.0014358072303659,0.0016135848891018,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,3,rmse_unscaled,0.0086679314524345,0.0057805766612634,0.0116878361698816,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0080340873879956,0.0056243378683197,0.0105561316347042,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,-1.0586475506154373e-05,-3.542416883711396e-05,5.04873807340264e-06,10000,50,squared denormalized translation command
+future_Cdonor,CHUNK_QUARTER,3,signed_residual,0.0010645014318126,-0.0010001933596555,0.0031952154120049,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,4,rmse_unscaled,0.0061500303665964,0.0043278339870488,0.0080389955524442,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0057637901566482,0.0043227900155397,0.0073725488430211,10000,50,denormalized translation command
+future_Cdonor,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-4.601596540183664e-06,-1.2703653281127924e-05,1.7488268842197811e-06,10000,50,squared denormalized translation command
+future_Cdonor,CHUNK_QUARTER,4,signed_residual,0.0005645036607286,-0.0002530623372721,0.0015707655823346,10000,50,denormalized translation command
+current_Frec,ALL,ALL,rmse_unscaled,0.0057445103844713,0.0042482065812254,0.0071118617513853,10000,50,denormalized translation command
+current_Frec,ALL,ALL,rmse_scaled_crossfit,0.0061569784379962,0.0045041190031936,0.0077108249992945,10000,50,denormalized translation command
+current_Frec,ALL,ALL,mse_scaled_minus_unscaled,4.908983928651013e-06,-2.2997570475200813e-06,1.1455813145385e-05,10000,50,squared denormalized translation command
+current_Frec,ALL,ALL,signed_residual,0.000292122916641,-0.000539805508246,0.0011554429715734,10000,50,denormalized translation command
+current_Frec,TASK,5,rmse_unscaled,0.0041440744605171,0.003877296989639,0.0044021481532419,6789,10,denormalized translation command
+current_Frec,TASK,5,rmse_scaled_crossfit,0.0042700778134067,0.0039984892773456,0.0045547954412657,6789,10,denormalized translation command
+current_Frec,TASK,5,mse_scaled_minus_unscaled,1.0602113982377754e-06,-6.391464363225186e-08,2.787144885541456e-06,6789,10,squared denormalized translation command
+current_Frec,TASK,5,signed_residual,0.0004430052310518,-0.0002086608115565,0.0010494069591785,6789,10,denormalized translation command
+current_Frec,TASK,6,rmse_unscaled,0.0078220666644027,0.0066684703500699,0.008819603669035,6700,10,denormalized translation command
+current_Frec,TASK,6,rmse_scaled_crossfit,0.0084116553782506,0.0069535621694406,0.0096539637649714,6700,10,denormalized translation command
+current_Frec,TASK,6,mse_scaled_minus_unscaled,9.571219300091155e-06,-1.7180556164890138e-06,2.0824100505198245e-05,6700,10,squared denormalized translation command
+current_Frec,TASK,6,signed_residual,0.0008865752491421,-0.0012382573860094,0.0030450276323191,6700,10,denormalized translation command
+current_Frec,TASK,7,rmse_unscaled,0.0048661196443553,0.0043589542167951,0.0054215146494409,6758,10,denormalized translation command
+current_Frec,TASK,7,rmse_scaled_crossfit,0.0050864611434628,0.0044599840740111,0.0057937700604884,6758,10,denormalized translation command
+current_Frec,TASK,7,mse_scaled_minus_unscaled,2.192966570776761e-06,-8.728329007665263e-07,5.966588168738915e-06,6758,10,squared denormalized translation command
+current_Frec,TASK,7,signed_residual,-0.000185991012617,-0.000874703250838,0.0005482371777661,6758,10,denormalized translation command
+current_Frec,TASK,8,rmse_unscaled,0.0068636150325307,0.0059700621570508,0.0076666875505303,6752,10,denormalized translation command
+current_Frec,TASK,8,rmse_scaled_crossfit,0.0075694278326296,0.0063492153981893,0.0085047968486392,6752,10,denormalized translation command
+current_Frec,TASK,8,mse_scaled_minus_unscaled,1.0187026398605946e-05,-4.938661294557017e-06,1.891447754991808e-05,6752,10,squared denormalized translation command
+current_Frec,TASK,8,signed_residual,-0.0004945109742753,-0.0022625739775694,0.0013305301950337,6752,10,denormalized translation command
+current_Frec,TASK,9,rmse_unscaled,0.0039812794478484,0.0035319306385167,0.004384561726571,6650,10,denormalized translation command
+current_Frec,TASK,9,rmse_scaled_crossfit,0.0041694222642236,0.0036740266177729,0.0046363367906791,6650,10,denormalized translation command
+current_Frec,TASK,9,mse_scaled_minus_unscaled,1.5334959755434389e-06,-2.885321229112543e-07,3.860355729485168e-06,6650,10,squared denormalized translation command
+current_Frec,TASK,9,signed_residual,0.0008115360899038,0.0003169148074764,0.0013006531638567,6650,10,denormalized translation command
+current_Frec,DOSE,-1.0,rmse_unscaled,0.0060140423861316,0.0041239937809288,0.0078162897125856,10000,50,denormalized translation command
+current_Frec,DOSE,-1.0,rmse_scaled_crossfit,0.0065565281305722,0.0044110308607605,0.008565808071721,10000,50,denormalized translation command
+current_Frec,DOSE,-1.0,mse_scaled_minus_unscaled,6.819355304796784e-06,-3.4496033826789454e-06,1.6663631095809193e-05,10000,50,squared denormalized translation command
+current_Frec,DOSE,-1.0,signed_residual,0.0011369826856453,9.113196600491246e-05,0.002174450172096,10000,50,denormalized translation command
+current_Frec,DOSE,-0.5,rmse_unscaled,0.0059099181795511,0.0042465803980966,0.007570537221319,10000,50,denormalized translation command
+current_Frec,DOSE,-0.5,rmse_scaled_crossfit,0.0062951013921596,0.0044494531715924,0.008151611605306,10000,50,denormalized translation command
+current_Frec,DOSE,-0.5,mse_scaled_minus_unscaled,4.70116864858086e-06,-1.9254854598101924e-06,1.1900166921731054e-05,10000,50,squared denormalized translation command
+current_Frec,DOSE,-0.5,signed_residual,0.0013613506940691,0.0002307700732834,0.0027393761145162,10000,50,denormalized translation command
+current_Frec,DOSE,0.5,rmse_unscaled,0.0052393237080526,0.0040563282368388,0.0063600532494374,10000,50,denormalized translation command
+current_Frec,DOSE,0.5,rmse_scaled_crossfit,0.0055445411424985,0.0042227973161377,0.0067524588034134,10000,50,denormalized translation command
+current_Frec,DOSE,0.5,mse_scaled_minus_unscaled,3.2914235630971157e-06,-1.7685703280208455e-06,7.786896142647747e-06,10000,50,squared denormalized translation command
+current_Frec,DOSE,0.5,signed_residual,-0.0006704297638397,-0.0017224915148078,0.0002812124507471,10000,50,denormalized translation command
+current_Frec,DOSE,1.0,rmse_unscaled,0.0057837052656802,0.0044005357939634,0.0073192234856318,10000,50,denormalized translation command
+current_Frec,DOSE,1.0,rmse_scaled_crossfit,0.006186698214588,0.0046675302502779,0.0080024396639048,10000,50,denormalized translation command
+current_Frec,DOSE,1.0,mse_scaled_minus_unscaled,4.823988198129294e-06,-2.3280826955120443e-06,1.2276041771310046e-05,10000,50,squared denormalized translation command
+current_Frec,DOSE,1.0,signed_residual,-0.0006594119493103,-0.0016408740267617,0.0002924859969582,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,1,rmse_unscaled,0.0061289258202981,0.0044662337468139,0.0075677556635691,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.0068881663508866,0.0049736619357363,0.0087126449883429,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,9.883103966769149e-06,-4.490375254857047e-06,2.292737859961284e-05,10000,50,squared denormalized translation command
+current_Frec,CHUNK_QUARTER,1,signed_residual,-0.0006150110052475,-0.0019416354448701,0.0007254655311922,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,2,rmse_unscaled,0.0070877509711568,0.0046693539032017,0.0091380600400341,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.0076579032053297,0.0051232393369241,0.0098352718385431,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,8.407267673063804e-06,-4.178839620735015e-06,1.851016476398205e-05,10000,50,squared denormalized translation command
+current_Frec,CHUNK_QUARTER,2,signed_residual,0.0005628631364419,-0.0013065875489011,0.0023110306646864,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,3,rmse_unscaled,0.0052651125142404,0.0040984222112429,0.006483364960254,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0054654725136859,0.0041572804752712,0.0068184783458192,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,2.149980010245585e-06,-1.2166039256355346e-06,5.558253906405802e-06,10000,50,squared denormalized translation command
+current_Frec,CHUNK_QUARTER,3,signed_residual,0.0010926193212826,-1.777811422708786e-05,0.0021353927489202,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,4,rmse_unscaled,0.0040590938522942,0.0034552544499763,0.0050243820749287,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0039587658387758,0.0033384883496226,0.0049493393661542,10000,50,denormalized translation command
+current_Frec,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-8.04415935474486e-07,-1.461831609094693e-06,4.906363907774258e-07,10000,50,squared denormalized translation command
+current_Frec,CHUNK_QUARTER,4,signed_residual,0.0001280202140873,-0.0003131376598939,0.0005822329166358,10000,50,denormalized translation command
+current_Fdonor,ALL,ALL,rmse_unscaled,0.0059553130063384,0.0043352735556015,0.007433374150497,10000,50,denormalized translation command
+current_Fdonor,ALL,ALL,rmse_scaled_crossfit,0.0063865262797696,0.0045638968903975,0.0080691697163432,10000,50,denormalized translation command
+current_Fdonor,ALL,ALL,mse_scaled_minus_unscaled,5.321964918724558e-06,-2.505367607180652e-06,1.289256048700168e-05,10000,50,squared denormalized translation command
+current_Fdonor,ALL,ALL,signed_residual,2.8043794463828297e-05,-0.0008280818816767,0.0008966490075476,10000,50,denormalized translation command
+current_Fdonor,TASK,5,rmse_unscaled,0.0042867831035164,0.0040973818447387,0.0044904566139428,6789,10,denormalized translation command
+current_Fdonor,TASK,5,rmse_scaled_crossfit,0.0044038212461653,0.0041605963933947,0.0047079861284868,6789,10,denormalized translation command
+current_Fdonor,TASK,5,mse_scaled_minus_unscaled,1.0171321915829335e-06,-8.508878404177791e-08,2.820578609001744e-06,6789,10,squared denormalized translation command
+current_Fdonor,TASK,5,signed_residual,3.092464888376737e-05,-0.0006420751208224,0.0006113646163399,6789,10,denormalized translation command
+current_Fdonor,TASK,6,rmse_unscaled,0.0081268381294018,0.0069711389820085,0.0091198125941173,6700,10,denormalized translation command
+current_Fdonor,TASK,6,rmse_scaled_crossfit,0.0087603938880322,0.0072807928474357,0.0101034878997758,6700,10,denormalized translation command
+current_Fdonor,TASK,6,mse_scaled_minus_unscaled,1.069900309197271e-05,-1.9798659674798634e-06,2.3795148576343965e-05,6700,10,squared denormalized translation command
+current_Fdonor,TASK,6,signed_residual,0.0004361369681336,-0.0019889096969568,0.0027429960836733,6700,10,denormalized translation command
+current_Fdonor,TASK,7,rmse_unscaled,0.0048433490043559,0.0043854667162796,0.0053301157807115,6758,10,denormalized translation command
+current_Fdonor,TASK,7,rmse_scaled_crossfit,0.0050494922889363,0.0044699503479249,0.005662470988949,6758,10,denormalized translation command
+current_Fdonor,TASK,7,mse_scaled_minus_unscaled,2.039342798031428e-06,-6.012035267577842e-07,5.269122851270966e-06,6758,10,squared denormalized translation command
+current_Fdonor,TASK,7,signed_residual,-0.000405269962234,-0.0012034086814688,0.0004116631181267,6758,10,denormalized translation command
+current_Fdonor,TASK,8,rmse_unscaled,0.0072685417804579,0.0061671638888199,0.0082564028706978,6752,10,denormalized translation command
+current_Fdonor,TASK,8,rmse_scaled_crossfit,0.0080185034287679,0.0065914904079837,0.0091787511951921,6752,10,denormalized translation command
+current_Fdonor,TASK,8,mse_scaled_minus_unscaled,1.1464697622900688e-05,-5.517048278803512e-06,2.203527600814818e-05,6752,10,squared denormalized translation command
+current_Fdonor,TASK,8,signed_residual,-0.0004562109210031,-0.0026869312940038,0.0017615361301116,6752,10,denormalized translation command
+current_Fdonor,TASK,9,rmse_unscaled,0.0040763989582678,0.0038477243210055,0.0042961079799777,6650,10,denormalized translation command
+current_Fdonor,TASK,9,rmse_scaled_crossfit,0.0042434275481151,0.0039173990929702,0.0045553311412512,6650,10,denormalized translation command
+current_Fdonor,TASK,9,mse_scaled_minus_unscaled,1.389648889135051e-06,-1.946476553862892e-07,3.5040163173832088e-06,6650,10,squared denormalized translation command
+current_Fdonor,TASK,9,signed_residual,0.0005346382385389,3.3875818438708146e-05,0.0010034604036276,6650,10,denormalized translation command
+current_Fdonor,DOSE,-1.0,rmse_unscaled,0.0062123201636925,0.0042829084666764,0.0079934336028725,10000,50,denormalized translation command
+current_Fdonor,DOSE,-1.0,rmse_scaled_crossfit,0.0067644441460873,0.0044851982762031,0.008814701093784,10000,50,denormalized translation command
+current_Fdonor,DOSE,-1.0,mse_scaled_minus_unscaled,7.164782789314645e-06,-3.637516640761812e-06,1.808316907017402e-05,10000,50,squared denormalized translation command
+current_Fdonor,DOSE,-1.0,signed_residual,0.000844383234953,-0.0003601656443328,0.0019548051483233,10000,50,denormalized translation command
+current_Fdonor,DOSE,-0.5,rmse_unscaled,0.005964470543975,0.0042698682961989,0.0075746202495553,10000,50,denormalized translation command
+current_Fdonor,DOSE,-0.5,rmse_scaled_crossfit,0.0063743370735494,0.0044342916335775,0.008153685213721,10000,50,denormalized translation command
+current_Fdonor,DOSE,-0.5,mse_scaled_minus_unscaled,5.057264257280964e-06,-2.031605337506984e-06,1.254859760903222e-05,10000,50,squared denormalized translation command
+current_Fdonor,DOSE,-0.5,signed_residual,0.0011315344456799,6.859178037789801e-05,0.0023948482477039,10000,50,denormalized translation command
+current_Fdonor,DOSE,0.5,rmse_unscaled,0.0056472748761322,0.0042730409785655,0.0069641804394212,10000,50,denormalized translation command
+current_Fdonor,DOSE,0.5,rmse_scaled_crossfit,0.0060027520243172,0.0044568484743212,0.0075106326009548,10000,50,denormalized translation command
+current_Fdonor,DOSE,0.5,mse_scaled_minus_unscaled,4.141318338849889e-06,-2.1700515250896627e-06,1.035989675095264e-05,10000,50,squared denormalized translation command
+current_Fdonor,DOSE,0.5,signed_residual,-0.0011300130459241,-0.0021463387466791,-0.0001274971170713,10000,50,denormalized translation command
+current_Fdonor,DOSE,1.0,rmse_unscaled,0.0059835999031599,0.004332069158855,0.0076879113677092,10000,50,denormalized translation command
+current_Fdonor,DOSE,1.0,rmse_scaled_crossfit,0.0063818462916736,0.0045920218895905,0.008382952128586,10000,50,denormalized translation command
+current_Fdonor,DOSE,1.0,mse_scaled_minus_unscaled,4.924494289452761e-06,-2.5193426149129164e-06,1.3650871096436918e-05,10000,50,squared denormalized translation command
+current_Fdonor,DOSE,1.0,signed_residual,-0.0007337294568535,-0.0017409104005677,0.0002316310705612,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,1,rmse_unscaled,0.0061665725532224,0.0046120740873914,0.0075593972781979,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.0069533456037061,0.0051281640453107,0.0086856351309746,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,1.0322398030423834e-05,-4.697725821074509e-06,2.3931551574297245e-05,10000,50,squared denormalized translation command
+current_Fdonor,CHUNK_QUARTER,1,signed_residual,-0.0013942888827432,-0.0027140522258961,-0.0001015917959289,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,2,rmse_unscaled,0.0072916367999103,0.0046558470025853,0.0095092316176027,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.0078976378321469,0.0050259262827907,0.010341614474329,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,9.2047161059526e-06,-4.31542856319259e-06,2.1686800920027167e-05,10000,50,squared denormalized translation command
+current_Fdonor,CHUNK_QUARTER,2,signed_residual,0.0003493243157476,-0.0013675800884959,0.0020410084916381,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,3,rmse_unscaled,0.0056666111048653,0.0039914469421234,0.0072175011165626,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0058861923979859,0.0040086042961412,0.0075555603918149,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,2.5367795323235563e-06,-1.5969632691002658e-06,7.167943868007817e-06,10000,50,squared denormalized translation command
+current_Fdonor,CHUNK_QUARTER,3,signed_residual,0.0010292773647977,6.871031090828335e-06,0.0021282778233965,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,4,rmse_unscaled,0.0043078934903395,0.0037377906904306,0.0053582602503502,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0042168604826704,0.0036415684820585,0.0053352631151722,10000,50,denormalized translation command
+current_Fdonor,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-7.760339938017622e-07,-1.5930161122952056e-06,5.895056425287165e-07,10000,50,squared denormalized translation command
+current_Fdonor,CHUNK_QUARTER,4,signed_residual,0.0001278623800531,-0.0003052213456537,0.0005525670475616,10000,50,denormalized translation command
+joint,ALL,ALL,rmse_unscaled,0.0094974073004063,0.0073422443432324,0.0118301747893119,10000,50,denormalized translation command
+joint,ALL,ALL,rmse_scaled_crossfit,0.0094641945106737,0.0073505805121628,0.011817171284635,10000,50,denormalized translation command
+joint,ALL,ALL,mse_scaled_minus_unscaled,-6.297676939451133e-07,-1.0129398225318222e-05,1.0331496891132844e-05,10000,50,squared denormalized translation command
+joint,ALL,ALL,signed_residual,0.0006110562633313,-0.0007590346871341,0.0018644914069659,10000,50,denormalized translation command
+joint,TASK,5,rmse_unscaled,0.0088259568153548,0.0066054098322401,0.0113973585610288,6789,10,denormalized translation command
+joint,TASK,5,rmse_scaled_crossfit,0.0083414230351183,0.0067753784243471,0.0108707041321511,6789,10,denormalized translation command
+joint,TASK,5,mse_scaled_minus_unscaled,-8.318175455705097e-06,-3.139396062494364e-05,1.3592584153505684e-05,6789,10,squared denormalized translation command
+joint,TASK,5,signed_residual,0.0006883452889208,-0.000336257112281,0.0016586980086881,6789,10,denormalized translation command
+joint,TASK,6,rmse_unscaled,0.013230590289492,0.0105648761357303,0.0155345983963815,6700,10,denormalized translation command
+joint,TASK,6,rmse_scaled_crossfit,0.0130134538910804,0.010609001312118,0.0153167680760171,6700,10,denormalized translation command
+joint,TASK,6,mse_scaled_minus_unscaled,-5.698537233124441e-06,-2.6546984395652577e-05,1.6200344731020037e-05,6700,10,squared denormalized translation command
+joint,TASK,6,signed_residual,0.0017417545015036,-0.0006214123169652,0.0043641048175763,6700,10,denormalized translation command
+joint,TASK,7,rmse_unscaled,0.0071241916346928,0.0055150763150817,0.0091016457091074,6758,10,denormalized translation command
+joint,TASK,7,rmse_scaled_crossfit,0.0071452970921504,0.0055982250398832,0.0090955104611014,6758,10,denormalized translation command
+joint,TASK,7,mse_scaled_minus_unscaled,3.0116408726578415e-07,-2.5264100663811296e-06,6.5834534648569215e-06,6758,10,squared denormalized translation command
+joint,TASK,7,signed_residual,0.0003114851954188,-0.0005160402881219,0.0011185122332258,6758,10,denormalized translation command
+joint,TASK,8,rmse_unscaled,0.0094992814444823,0.0078140726966708,0.0111876847650243,6752,10,denormalized translation command
+joint,TASK,8,rmse_scaled_crossfit,0.0102160699636011,0.0082895206664028,0.01205622977165,6752,10,denormalized translation command
+joint,TASK,8,mse_scaled_minus_unscaled,1.4131737539708332e-05,-5.081895820511194e-06,3.16093120458745e-05,6752,10,squared denormalized translation command
+joint,TASK,8,signed_residual,-0.0007343492912059,-0.0034148534138834,0.0020810412427333,6752,10,denormalized translation command
+joint,TASK,9,rmse_unscaled,0.0075542861757306,0.0058367646618888,0.0091703579307215,6650,10,denormalized translation command
+joint,TASK,9,rmse_scaled_crossfit,0.0073145206416391,0.005823551542704,0.0092254930481047,6650,10,denormalized translation command
+joint,TASK,9,mse_scaled_minus_unscaled,-3.565027407870133e-06,-1.7775852071620958e-05,1.2480050357997788e-05,6650,10,squared denormalized translation command
+joint,TASK,9,signed_residual,0.0010480456220192,-0.0010323636187867,0.0028695852350901,6650,10,denormalized translation command
+joint,DOSE,-1.0,rmse_unscaled,0.0101584870404826,0.0077702147299719,0.0125112292143917,10000,50,denormalized translation command
+joint,DOSE,-1.0,rmse_scaled_crossfit,0.0103077844843843,0.0078344537206772,0.0129236121680391,10000,50,denormalized translation command
+joint,DOSE,-1.0,mse_scaled_minus_unscaled,3.0555620248609128e-06,-9.710087265020592e-06,1.9607093383723603e-05,10000,50,squared denormalized translation command
+joint,DOSE,-1.0,signed_residual,0.0021615782221701,0.0005555811844631,0.0036136057558244,10000,50,denormalized translation command
+joint,DOSE,-0.5,rmse_unscaled,0.0103241000810199,0.0075870081007912,0.0135266514795661,10000,50,denormalized translation command
+joint,DOSE,-0.5,rmse_scaled_crossfit,0.0100353498426176,0.0075685742697906,0.0127812481032347,10000,50,denormalized translation command
+joint,DOSE,-0.5,mse_scaled_minus_unscaled,-5.87879601919018e-06,-3.1978671354619606e-05,1.053693011343718e-05,10000,50,squared denormalized translation command
+joint,DOSE,-0.5,signed_residual,0.0021428342121339,0.0003211885098134,0.0041519243271288,10000,50,denormalized translation command
+joint,DOSE,0.5,rmse_unscaled,0.0077234002333431,0.0059904968155043,0.0094864345028796,10000,50,denormalized translation command
+joint,DOSE,0.5,rmse_scaled_crossfit,0.0078287031556614,0.0059301558790418,0.0097343341235812,10000,50,denormalized translation command
+joint,DOSE,0.5,mse_scaled_minus_unscaled,1.6376819350588485e-06,-3.4713686581752333e-06,9.362186883847173e-06,10000,50,squared denormalized translation command
+joint,DOSE,0.5,signed_residual,-0.0009572562185111,-0.0025475945911268,0.000453562203942,10000,50,denormalized translation command
+joint,DOSE,1.0,rmse_unscaled,0.0095587744570249,0.0070229699266038,0.0123785431664299,10000,50,denormalized translation command
+joint,DOSE,1.0,rmse_scaled_crossfit,0.0094887644297749,0.0070448407327845,0.0125588038171449,10000,50,denormalized translation command
+joint,DOSE,1.0,mse_scaled_minus_unscaled,-1.333518716509994e-06,-1.222512539386366e-05,1.6428244026340905e-05,10000,50,squared denormalized translation command
+joint,DOSE,1.0,signed_residual,-0.0009029311624675,-0.0022897907152002,0.000553021709484,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,1,rmse_unscaled,0.0084014178039225,0.0069122276904043,0.0102237991075156,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.0088832574133344,0.0068805882087274,0.0115686136644866,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,8.328441155495251e-06,-5.766252460197118e-06,3.2113592497382214e-05,10000,50,squared denormalized translation command
+joint,CHUNK_QUARTER,1,signed_residual,-0.0012327477937111,-0.0030138962388898,0.0004386893247076,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,2,rmse_unscaled,0.0118812254845881,0.0088529442615005,0.0147237155224024,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.0118040692180863,0.0089560606500731,0.0146957521243126,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,-1.8274689102525676e-06,-3.154563720660312e-05,2.4819095738753545e-05,10000,50,squared denormalized translation command
+joint,CHUNK_QUARTER,2,signed_residual,0.0008273282191251,-0.001992847881506,0.002940324527099,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,3,rmse_unscaled,0.0103557565254072,0.0069234302551959,0.0140782000864602,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0100970172425437,0.0070564579503188,0.0134373967710347,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,-5.291936017289326e-06,-2.4282714017126263e-05,7.6149743914070365e-06,10000,50,squared denormalized translation command
+joint,CHUNK_QUARTER,3,signed_residual,0.0021571207530952,-0.0007153256789085,0.0050195855590698,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,4,rmse_unscaled,0.0064663705719699,0.0047214064566536,0.0084254717940262,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0061713727298151,0.0047050242440581,0.0080125924225239,10000,50,denormalized translation command
+joint,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-3.7281070037338313e-06,-9.391404465020286e-06,1.7112281449737546e-06,10000,50,squared denormalized translation command
+joint,CHUNK_QUARTER,4,signed_residual,0.000692523874816,-6.727986835519982e-05,0.0015897448298423,10000,50,denormalized translation command
+interaction,ALL,ALL,rmse_unscaled,0.0046930534139543,0.0043960748866207,0.0049705981723135,10000,50,denormalized translation command
+interaction,ALL,ALL,rmse_scaled_crossfit,0.0045523308450427,0.0042037132702649,0.0049293446016103,10000,50,denormalized translation command
+interaction,ALL,ALL,mse_scaled_minus_unscaled,-1.301034223500959e-06,-2.579381205037183e-06,6.182517097145036e-07,10000,50,squared denormalized translation command
+interaction,ALL,ALL,signed_residual,-0.0002640791221772,-0.0005218909674946,1.205203499634767e-05,10000,50,denormalized translation command
+interaction,TASK,5,rmse_unscaled,0.004632925862014,0.0043848082348169,0.0048762474985089,6789,10,denormalized translation command
+interaction,TASK,5,rmse_scaled_crossfit,0.0044438318707413,0.0041567293200299,0.0048075122082587,6789,10,denormalized translation command
+interaction,TASK,5,mse_scaled_minus_unscaled,-1.7163603475020936e-06,-2.913504834259264e-06,4.946112388436369e-07,6789,10,squared denormalized translation command
+interaction,TASK,5,signed_residual,-0.000412080582168,-0.0007085167968924,-0.00013522298277,6789,10,denormalized translation command
+interaction,TASK,6,rmse_unscaled,0.0050048070928171,0.0047351613942117,0.005269289969804,6700,10,denormalized translation command
+interaction,TASK,6,rmse_scaled_crossfit,0.0048370878954561,0.0045669768952722,0.0051352249141694,6700,10,denormalized translation command
+interaction,TASK,6,mse_scaled_minus_unscaled,-1.6506747279451156e-06,-3.314359581947703e-06,3.99338006744549e-07,6700,10,squared denormalized translation command
+interaction,TASK,6,signed_residual,-0.0004504382810084,-0.0010045239158377,5.194820669145623e-05,6700,10,denormalized translation command
+interaction,TASK,7,rmse_unscaled,0.0046625987492576,0.0043712502034989,0.0049659161841465,6758,10,denormalized translation command
+interaction,TASK,7,rmse_scaled_crossfit,0.0045345618180204,0.0041611113946878,0.0049422433478688,6758,10,denormalized translation command
+interaction,TASK,7,mse_scaled_minus_unscaled,-1.1775762151309303e-06,-2.4213297935507967e-06,7.293184810067144e-07,6758,10,squared denormalized translation command
+interaction,TASK,7,signed_residual,-0.000219278949617,-0.000526833308985,0.0001174423228854,6758,10,denormalized translation command
+interaction,TASK,8,rmse_unscaled,0.004942061885646,0.0045890342794471,0.0053351803054557,6752,10,denormalized translation command
+interaction,TASK,8,rmse_scaled_crossfit,0.0048697795252363,0.0044947403532746,0.0053069677160752,6752,10,denormalized translation command
+interaction,TASK,8,mse_scaled_minus_unscaled,-7.092230571442777e-07,-1.1714180917738025e-06,6.119596355575718e-07,6752,10,squared denormalized translation command
+interaction,TASK,8,signed_residual,3.830005327217587e-05,-0.0005377592209805,0.0005955839519611,6752,10,denormalized translation command
+interaction,TASK,9,rmse_unscaled,0.0041770627088632,0.0040440472747247,0.0043110599407166,6650,10,denormalized translation command
+interaction,TASK,9,rmse_scaled_crossfit,0.0040244895457676,0.0038502213242011,0.004276542066087,6650,10,denormalized translation command
+interaction,TASK,9,mse_scaled_minus_unscaled,-1.2513367697823612e-06,-2.087275030850949e-06,5.338953147493077e-07,6650,10,squared denormalized translation command
+interaction,TASK,9,signed_residual,-0.0002768978513649,-0.0004885503923484,-4.8218360155062665e-05,6650,10,denormalized translation command
+interaction,DOSE,-1.0,rmse_unscaled,0.0046061655793826,0.0042724452426262,0.0049386729419867,10000,50,denormalized translation command
+interaction,DOSE,-1.0,rmse_scaled_crossfit,0.0044727376376246,0.0041234697598966,0.0048327944876005,10000,50,denormalized translation command
+interaction,DOSE,-1.0,mse_scaled_minus_unscaled,-1.211379369665689e-06,-2.4192806347711186e-06,6.031784631157077e-07,10000,50,squared denormalized translation command
+interaction,DOSE,-1.0,signed_residual,-0.0002925994506922,-0.0007169907911285,0.0001015534227079,10000,50,denormalized translation command
+interaction,DOSE,-0.5,rmse_unscaled,0.0045569871715247,0.0042702196951437,0.0048231758230717,10000,50,denormalized translation command
+interaction,DOSE,-0.5,rmse_scaled_crossfit,0.0043919265108766,0.0040868332315576,0.0047900148174576,10000,50,denormalized translation command
+interaction,DOSE,-0.5,mse_scaled_minus_unscaled,-1.4771136044994136e-06,-2.6487285607672263e-06,7.863163648069669e-07,10000,50,squared denormalized translation command
+interaction,DOSE,-0.5,signed_residual,-0.0002298162483892,-0.0005153890592758,0.0001099490243904,10000,50,denormalized translation command
+interaction,DOSE,0.5,rmse_unscaled,0.0044760274290874,0.0041431635907692,0.0048057822935179,10000,50,denormalized translation command
+interaction,DOSE,0.5,rmse_scaled_crossfit,0.0043449804322092,0.0039459215860859,0.0047637873165404,10000,50,denormalized translation command
+interaction,DOSE,0.5,mse_scaled_minus_unscaled,-1.1559665896617566e-06,-2.5420642326156825e-06,4.443947389509287e-07,10000,50,squared denormalized translation command
+interaction,DOSE,0.5,signed_residual,-0.0004595832820843,-0.0007692621185846,-0.0001423525783195,10000,50,denormalized translation command
+interaction,DOSE,1.0,rmse_unscaled,0.0051069840819059,0.0046749637087219,0.0055350274134329,10000,50,denormalized translation command
+interaction,DOSE,1.0,rmse_scaled_crossfit,0.0049720829722223,0.0044691334664963,0.0055167362904753,10000,50,denormalized translation command
+interaction,DOSE,1.0,mse_scaled_minus_unscaled,-1.3596773301769736e-06,-3.0462320166767643e-06,6.169033789333065e-07,10000,50,squared denormalized translation command
+interaction,DOSE,1.0,signed_residual,-7.431750754324144e-05,-0.000419802946802,0.0003029861317726,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,1,rmse_unscaled,0.0042310954906809,0.0038604811180197,0.0046148994967622,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,1,rmse_scaled_crossfit,0.0041622269082579,0.0037432784398961,0.0046008814996032,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,1,mse_scaled_minus_unscaled,-5.780362154343619e-07,-1.5352141292586227e-06,5.117914870365728e-07,10000,50,squared denormalized translation command
+interaction,CHUNK_QUARTER,1,signed_residual,-0.0007792778774956,-0.0012101027163846,-0.0003415865975895,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,2,rmse_unscaled,0.0043992274545173,0.0040173847795748,0.0047578908196837,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,2,rmse_scaled_crossfit,0.0043286366686341,0.0039161939388287,0.0047442981531924,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,2,mse_scaled_minus_unscaled,-6.161067875354138e-07,-1.6451880376228628e-06,3.335532058577252e-07,10000,50,squared denormalized translation command
+interaction,CHUNK_QUARTER,2,signed_residual,-0.0002135388206942,-0.0007502323221405,0.0003144127813823,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,3,rmse_unscaled,0.0050418238929238,0.0045477177994504,0.0055489029165621,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,3,rmse_scaled_crossfit,0.0048936275598658,0.0043251856455197,0.0055218868160436,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,3,mse_scaled_minus_unscaled,-1.472397472579178e-06,-3.1063042256118388e-06,6.602656296939325e-07,10000,50,squared denormalized translation command
+interaction,CHUNK_QUARTER,3,signed_residual,-6.334195648485375e-05,-0.0006817614622416,0.0006049797092783,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,4,rmse_unscaled,0.0050421862291882,0.0046804548638179,0.0054623959693904,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,4,rmse_scaled_crossfit,0.0047839361985044,0.0044274835699805,0.0052019698693469,10000,50,denormalized translation command
+interaction,CHUNK_QUARTER,4,mse_scaled_minus_unscaled,-2.537596418454876e-06,-4.93395780910865e-06,1.1728540914750297e-06,10000,50,squared denormalized translation command
+interaction,CHUNK_QUARTER,4,signed_residual,-1.5783403423957117e-07,-0.0004519837891589,0.000425589183974,10000,50,denormalized translation command

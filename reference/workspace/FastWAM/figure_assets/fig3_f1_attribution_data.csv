@@ -1,0 +1,15 @@
+signed_dose_cm,series,estimate,ci_low,ci_high,source,n,n_tasks
+-1,Strict current,0.074,0.041,0.113,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+1,Strict current,0.073,0.042,0.111,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-2,Strict current,0.062,0.026,0.112,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+2,Strict current,0.052,0.037,0.079,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-4,Strict current,0.07,0.047,0.107,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+4,Strict current,0.045,0.031,0.06,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-1,Strict future,0.927,0.88,0.964,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+1,Strict future,0.931,0.896,0.959,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-2,Strict future,0.943,0.891,0.976,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+2,Strict future,0.949,0.921,0.967,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-4,Strict future,0.934,0.889,0.958,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+4,Strict future,0.954,0.946,0.963,@DATA@/wam_factor_routing_v5/joint_experiment_A_strict_consumer_v1/report_A.md,,
+-4.0,Node (propagation allowed),0.9938426352407556,0.9811252589674683,1.0010125959096492,@DATA@/wam_factor_routing_v5/experiments/followup_s1_s2_s3/s1_f3g_attribution/v3/F1_archived_node_reconstruction.csv,21.0,5.0
+4.0,Node (propagation allowed),0.9985597937430851,0.9974097463240325,1.000079370701807,@DATA@/wam_factor_routing_v5/experiments/followup_s1_s2_s3/s1_f3g_attribution/v3/F1_archived_node_reconstruction.csv,21.0,5.0
